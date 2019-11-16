@@ -23,3 +23,5 @@ class Thermometer:
 
 
 
+
+# ADDED notes o check the 3rd commit
